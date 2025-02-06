@@ -1,0 +1,15 @@
+/* App.css */
+.new-item-form {
+  display: flex; /* Or grid, depending on your desired layout */
+  flex-direction: column; /* Or row */
+  /* ... other form styles ... */
+}
+
+.form-row { /* Or whatever class name you use for the form row */
+  margin-bottom: 10px; /* Add spacing between form elements */
+}
+
+.header {
+/* ... other header styles ... */
+margin-top: 20px; /* Add some top margin to the header */
+}
